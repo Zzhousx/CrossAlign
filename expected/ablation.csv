@@ -1,0 +1,37 @@
+dataset,variant,acc,nmi
+Yale,CrossAlign,0.632970,0.699402
+Yale,within-view target,0.648970,0.710491
+Yale,continuous target (no discretisation),0.625758,0.689180
+Yale,per-feature ranking: relevance ratio,0.558909,0.643169
+Yale,per-feature ranking: relevance,0.579758,0.641448
+Yale,standardised geometry,0.645394,0.707475
+BBCSport,CrossAlign,0.840276,0.800399
+BBCSport,within-view target,0.832647,0.804999
+BBCSport,continuous target (no discretisation),0.786728,0.742878
+BBCSport,per-feature ranking: relevance ratio,0.729136,0.680975
+BBCSport,per-feature ranking: relevance,0.751489,0.700491
+BBCSport,standardised geometry,0.774173,0.735014
+HW,CrossAlign,0.855015,0.873355
+HW,within-view target,0.846625,0.855829
+HW,continuous target (no discretisation),0.869555,0.875758
+HW,per-feature ranking: relevance ratio,0.790100,0.760694
+HW,per-feature ranking: relevance,0.743700,0.731778
+HW,standardised geometry,0.814390,0.804145
+OutScene,CrossAlign,0.668594,0.578248
+OutScene,within-view target,0.622943,0.541203
+OutScene,continuous target (no discretisation),0.660833,0.569358
+OutScene,per-feature ranking: relevance ratio,0.546882,0.467525
+OutScene,per-feature ranking: relevance,0.542701,0.458463
+OutScene,standardised geometry,0.625208,0.553628
+ORL,CrossAlign,0.713200,0.858700
+ORL,within-view target,0.706300,0.853900
+ORL,continuous target (no discretisation),0.691600,0.843100
+ORL,per-feature ranking: relevance ratio,0.657600,0.821400
+ORL,per-feature ranking: relevance,0.681900,0.833000
+ORL,standardised geometry,0.719700,0.861600
+MNIST4,CrossAlign,0.840100,0.690400
+MNIST4,within-view target,0.808100,0.682700
+MNIST4,continuous target (no discretisation),0.836300,0.683500
+MNIST4,per-feature ranking: relevance ratio,0.824900,0.662700
+MNIST4,per-feature ranking: relevance,0.794600,0.646800
+MNIST4,standardised geometry,0.799800,0.659900
